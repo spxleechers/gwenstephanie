@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**aryanvikash/aryanvikash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gwenstephanie/aryanvikash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Public Github Stats](https://github-readme-stats.vercel.app/api?username=aryanvikash&show_icons=true&hide_border=false)
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=gwenstephanie&show_icons=true&hide_border=false)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzMDA0MjMwMTRdfQ==
 -->
