@@ -1,19 +1,14 @@
-### Hi there 👋
-
-<!--
-**gwenstephanie/aryanvikash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Android
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with My projects
+- 💬 Not enough qualified To answer anything
+- 🌐 [aryanvikash.com](https://aryyanvikash.com)
+- 📫 How to reach me [![Dynamic name](https://img.shields.io/badge/aryanvikash-30302f?style=flat&logo=telegram)](https://t.me/iggie)
+
+- ⚡ Fun fact :- `Life is full of failure But still trying :)`
+
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=gwenstephanie&show_icons=true&hide_border=false)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzMDA0MjMwMTRdfQ==
