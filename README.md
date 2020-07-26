@@ -9,10 +9,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact :- `Life is full of failure But still trying :)`
 
-![Public Github Stats](https://github-readme-stats.vercel.app/api?username=gwenstephanie&show_icons=true&hide_border=false)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA0MjMwMTRdfQ==
--->
-
+![Dynamic name](https://github-readme-stats.vercel.app/api?username=gwenstephanie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gwenstephanie/)
