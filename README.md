@@ -1,4 +1,6 @@
-Here are some ideas to get you started:
+### Hi there 👋
+
+![Dyno](https://github.com/CW4RR10R/archives/raw/master/dino.gif)
 
 - 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate on projects
